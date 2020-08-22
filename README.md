@@ -6,10 +6,6 @@ A data science enthusiast.
 
 Kaggle competition expert.
 
-[![LinkedIn](https://img.shields.io/static/v1?label=linkin&message=connect&color=blue)](https://www.linkedin.com/in/xiaosongmalcolm/)
-
-[![Kaggle](https://img.shields.io/static/v1?label=kaggle&message=profile&color=blue)](https://www.kaggle.com/rikdifos)
-
 Email: xsong@stu.ecnu.edu.cn   
 微信公众号 / wechat official account :  ApocalypseNow   
 
@@ -19,7 +15,8 @@ Machine Learning 🤖
 A big fan of R package, `data.table`   🚀 🔥 💯   
 A big fan of Rock'n Roll and Hip-Hop music.  🎙 🎸🎵
 
-
+[![LinkedIn](https://img.shields.io/static/v1?label=linkin&message=connect&color=blue)](https://www.linkedin.com/in/xiaosongmalcolm/)
+[![Kaggle](https://img.shields.io/static/v1?label=kaggle&message=profile&color=blue)](https://www.kaggle.com/rikdifos)
 
 <!--
 **songxxiao/songxxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

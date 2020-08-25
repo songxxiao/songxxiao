@@ -7,7 +7,7 @@ A data science enthusiast.
 Kaggle competition expert.
 
 Email: xsong@stu.ecnu.edu.cn   
-微信公众号 / wechat official account :  ApocalypseNow   
+微信公众号 / wechat official account :  [ApocalypseNow](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1488941854304878597&__biz=Mzg4NjA2NTUzNg==#wechat_redirect)
 
 Python / R / SQL  📊 📉 📈  
 Machine Learning 🤖

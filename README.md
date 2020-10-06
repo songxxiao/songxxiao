@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-R-165caa?style=flat-square&logo=R&logoColor=fff)
+![](https://img.shields.io/badge/-Mysql-20beff?style=flat-square&logo=mysql&logoColor=black)
 
 It's Xiao Song's github.
 

@@ -1,16 +1,21 @@
-## Hi there 👋
+Library Genesis: 免费的世界图书馆
 
-<!--
-**songxxiao/songxxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Library Genesis，或简称LibGen，是一个非营利性的在线图书馆，它为用户提供免费访问数百万电子书的途径，包括学术期刊、科学文章、小说等多种类型的书籍。以下是一些关键点：
 
-Here are some ideas to get you started:
++ 起源与发展：LibGen于2008年3月11日成立。这个项目逐渐扩展，接受用户上传，并吸收了其他在线图书馆的藏书，如Natahaus和Library.nu。LibGen的设计更偏向于作为一个索引和**搜索引擎**，而不是一个强调社区功能的网站
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 藏书范围：截至2024年，LibGen声称拥有超过240万本非小说书籍，8000万科学杂志文章，200万漫画文件，220万小说书籍以及40万杂志期刊。内容涵盖广泛，从学术书籍到大众读物。其中也**包括海量中文书籍**
+
++ 多语言：LibGen的多语言特性是其全球吸引力的一部分，允许用户从世界各地的学术和文化资源中受益。LibGen包括简体和繁体中文的科学著作、教科书和文学作品
+
++ 访问方式：由于不可抗因素，LibGen经常更换域名。用户可以使用搜索引擎查找“Library Genesis mirror”或“Library Genesis proxy”来找到当前可用的链接
+
++ 使用方式：用户可以在LibGen上搜索书名、作者、ISBN等信息来查找电子书。网站提供多种文件格式如pdf、epub、mobi等，可在各种电子阅读设备上阅读。**下载资源不需要注册**
+
++ 内容分散存储：LibGen的内容并不是集中在一个服务器上，而是通过一个分布式的系统进行存储。这意味着数据可能存储在多个服务器上，甚至是通过用户的上传分散存储。这不仅提高了数据的安全性，还增强了网站的抗攻击能力，因为即使一个或多个服务器被关闭，其他服务器仍可以提供服务
+
++ 镜像网站（Mirror Sites）：为了应对封锁，LibGen使用了多个镜像网站。这些镜像站点提供相同的数据库和下载功能，但通过不同的域名访问。例如，常见的镜像域名包括 libgen.is, libgen.li, libgen.rs 等。每个镜像站点都可能有不同的服务器和IP地址，从而提高了网站的可用性
+
++ 用户参与和上传：LibGen的藏书库非常依赖于用户的上传，这使得其内容库能够不断增长和更新。用户上传书籍或科学文献后，这些资源会加入到LibGen的分布式系统中，供其他用户访问和下载。这种模式不仅仅是内容的分散存储，还体现了知识共享的社区化特点。所以，如果你在其他途径获取了LibGen未涵盖的资源，**请务必将它上传**到LibGen以丰富它的储备并且使知识更安全地长存下去
+
+LibGen在全球范围内保持了其访问性和内容的持续增长，尽管面临着挑战。通过分布式架构，LibGen提供了对数百万资源的免费访问，同时也展示了在互联网环境下，知识传播的一种独特方式。
